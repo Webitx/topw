@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Microfiber</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.top-ware.cn/index.php/microfiber</link>
+		<lastBuildDate>Thu, 14 Jan 2021 21:17:55 -0800</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.top-ware.cn/index.php/microfiber?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+	</channel>
+</rss>
